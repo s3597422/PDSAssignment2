@@ -10,4 +10,4 @@ Methodology:
  Value_counts was used to check target column, and discrepancy was found with documentation values which were found to include an error.
  Null values were confirmed to be 0. 
  TO DO: Sanity check -> I need to understand reports to make sense of numerical values in each column.
- TO DO: Split data set into data and target sets
+ Split data set into data and target sets.
