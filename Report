@@ -11,3 +11,9 @@ Methodology:
  Null values were confirmed to be 0. 
  TO DO: Sanity check -> I need to understand reports to make sense of numerical values in each column.
  Split data set into data and target sets.
+ 
+ A for loop was used to get a quick idea of distribution of each feature. 
+ A scatter matrix was used to look for any strong relationships between columns.
+ TO DO - Choose which graphs to focus on.
+ TO DO - Format these graphs with labels and appropriate colour.
+ TO DO - Explore hypothesis and relationships between pairs of columns
